@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="105mm"
+   height="55mm"
+   viewBox="0 0 105 55"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="logoAB.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:document-units="mm"
+     showgrid="false"
+     width="20mm"
+     height="10mm"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="148.49242"
+     inkscape:cy="175.71603"
+     inkscape:window-width="1920"
+     inkscape:window-height="1110"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g893"
+     showborder="true" />
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       effect="powerclip"
+       id="path-effect4154"
+       is_visible="true"
+       lpeversion="1"
+       inverse="true"
+       flatten="false"
+       hide_clip="false"
+       message="Jeśli po konwersji przycięcia na ścieżki nie zostanie spłaszczony wynik, użyj reguły wypełniania w oknie dialogowym &lt;b&gt;wypełnienie i obrys&lt;/b&gt; ." />
+    <inkscape:path-effect
+       effect="powerclip"
+       id="path-effect3691"
+       is_visible="true"
+       lpeversion="1"
+       inverse="true"
+       flatten="false"
+       hide_clip="false"
+       message="Jeśli po konwersji przycięcia na ścieżki nie zostanie spłaszczony wynik, użyj reguły wypełniania w oknie dialogowym &lt;b&gt;wypełnienie i obrys&lt;/b&gt; ." />
+    <marker
+       id="DistanceX"
+       orient="auto"
+       refX="0"
+       refY="0"
+       style="overflow:visible">
+      <path
+         d="M 3,-3 -3,3 M 0,-5 V 5"
+         style="stroke:#000000;stroke-width:0.5"
+         id="path842" />
+    </marker>
+    <pattern
+       id="Hatch"
+       patternUnits="userSpaceOnUse"
+       width="8"
+       height="8"
+       x="0"
+       y="0">
+      <path
+         d="M8 4 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path845" />
+      <path
+         d="M6 2 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path847" />
+      <path
+         d="M4 0 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path849" />
+    </pattern>
+    <symbol
+       id="*Model_Space" />
+    <symbol
+       id="*Paper_Space" />
+    <symbol
+       id="*Paper_Space0" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3687">
+      <path
+         d="m 30.23622,1122.5197 a 5.669291,5.669291 0 1 0 -11.338582,0 5.669291,5.669291 0 1 0 11.338582,0 z"
+         style="display:none;fill:#00ff00;stroke:none;stroke-width:0.899997;stroke-linecap:round"
+         id="path3689" />
+      <path
+         id="lpe_path-effect3691"
+         style="fill:#00ff00;stroke:none;stroke-width:0.899997;stroke-linecap:round"
+         class="powerclip"
+         d="m 11.003391,1108.0709 h 28.012364 v 28.8976 H 11.003391 Z m 19.232829,14.4488 a 5.669291,5.669291 0 1 0 -11.338582,0 5.669291,5.669291 0 1 0 11.338582,0 z" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4150">
+      <path
+         d="m 5.669291,1122.5197 a 5.669291,5.669291 0 1 0 -11.338582,0 5.669291,5.669291 0 1 0 11.338582,0 z"
+         style="display:none;fill:#00ff00;stroke:none;stroke-width:0.899997;stroke-linecap:round"
+         id="path4152" />
+      <path
+         id="lpe_path-effect4154"
+         style="fill:#00ff00;stroke:none;stroke-width:0.899997;stroke-linecap:round"
+         class="powerclip"
+         d="m -14.448801,1108.0709 h 28.012339 v 28.8976 h -28.012339 z m 20.118092,14.4488 a 5.669291,5.669291 0 1 0 -11.338582,0 5.669291,5.669291 0 1 0 11.338582,0 z" />
+    </clipPath>
+  </defs>
+  <g
+     inkscape:label="Warstwa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.32291px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 43.617697,19.280336 12.084891,25.91207 H 47.662331 L 43.17268,35.552499 Z"
+       id="path2080" />
+    <g
+       inkscape:label="0"
+       id="g893"
+       transform="matrix(0.38559618,0,0,0.38559629,5.2743157,-427.56458)">
+      <path
+         d="m 56.621516,1122.0968 a 56.693,56.693 0 0 0 0,113.386"
+         style="fill:none;stroke:#ffffff;stroke-width:4.5;stroke-linecap:round;stroke-opacity:1"
+         id="path883" />
+      <path
+         style="fill:#008000;stroke:#ffffff;stroke-width:4.5;stroke-linecap:round;stroke-opacity:1"
+         d="M 56.621516,1122.0913 H 179.45602"
+         id="path861" />
+      <path
+         style="fill:none;stroke:#ffffff;stroke-width:4.5;stroke-linecap:round;stroke-opacity:1"
+         d="M 56.621516,1235.4913 H 179.45602"
+         id="path863" />
+      <path
+         style="fill:none;stroke:#ffffff;stroke-width:4.5;stroke-linecap:round;stroke-opacity:1"
+         d="M 56.621516,1112.6413 H 179.45602"
+         id="path865" />
+      <path
+         style="fill:none;stroke:#ffffff;stroke-width:4.5;stroke-linecap:round;stroke-opacity:1"
+         d="M 56.621516,1244.9413 H 179.45602"
+         id="path867" />
+      <path
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.43084px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 136.63852,1198.7413 -31.34076,-67.2 h 20.85126 l 11.6435,24.95 z"
+         id="path2997" />
+      <path
+         d="m 56.621516,1112.6478 a 66.14175,66.14175 0 0 0 0,132.2835"
+         style="fill:none;stroke:#ffffff;stroke-width:4.5;stroke-linecap:round;stroke-opacity:1"
+         id="path881" />
+      <path
+         d="m 16.003391,1126.5129 a 9.448819,9.448819 0 1 0 0.230821,-8.4481"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.9;stroke-linecap:round;stroke-opacity:1"
+         id="path889"
+         clip-path="url(#clipPath3687)"
+         inkscape:original-d="m 16.003391,1126.5129 a 9.448819,9.448819 0 1 0 0.230821,-8.4481"
+         inkscape:path-effect="#path-effect3691"
+         transform="matrix(5,0,0,5,56.621516,-4433.8087)" />
+      <path
+         d="m 179.45616,1244.9313 a 66.14175,66.14175 0 0 0 0,-132.2835"
+         style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:4.5;stroke-linecap:round;stroke-opacity:1"
+         id="path887" />
+      <path
+         d="m 179.45616,1235.4828 a 56.693,56.693 0 0 0 0,-113.386"
+         style="fill:none;stroke:#ffffff;stroke-width:4.5;stroke-linecap:round;stroke-opacity:1"
+         id="path885" />
+      <path
+         d="m 8.563538,1118.5264 a 9.448819,9.448819 0 1 0 -0.23082,8.4482"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.9;stroke-linecap:round;stroke-opacity:1"
+         id="path891"
+         clip-path="url(#clipPath4150)"
+         inkscape:path-effect="#path-effect4154"
+         inkscape:original-d="m 8.563538,1118.5264 a 9.448819,9.448819 0 1 0 -0.23082,8.4482"
+         transform="matrix(5,0,0,5,56.621516,-4433.8087)" />
+    </g>
+  </g>
+</svg>
