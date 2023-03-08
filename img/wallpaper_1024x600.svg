@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1024mm"
+   height="600mm"
+   viewBox="0 0 1024 599.99999"
+   version="1.1"
+   id="svg876"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="wallpaper_1024x600.svg"
+   inkscape:export-filename="/home/admin1/Desktop/projects/andrzejborowy.github.io/andrzejborowy.github.io/img/wallpaper_1024x600.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview878"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:document-units="mm"
+     showgrid="false"
+     showborder="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="0.1767767"
+     inkscape:cx="-231.93102"
+     inkscape:cy="1134.1993"
+     inkscape:window-width="1920"
+     inkscape:window-height="1110"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs873">
+    <linearGradient
+       id="linearGradient6134"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#15725a;stop-opacity:1;"
+         offset="0"
+         id="stop6132" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient1482"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#b22222;stop-opacity:1;"
+         offset="0"
+         id="stop1480" />
+    </linearGradient>
+    <marker
+       id="DistanceX"
+       orient="auto"
+       refX="0"
+       refY="0"
+       style="overflow:visible">
+      <path
+         d="M 3,-3 -3,3 M 0,-5 V 5"
+         style="stroke:#000000;stroke-width:0.5"
+         id="path955" />
+    </marker>
+    <pattern
+       id="Hatch"
+       patternUnits="userSpaceOnUse"
+       width="8"
+       height="8"
+       x="0"
+       y="0">
+      <path
+         d="M8 4 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path958" />
+      <path
+         d="M6 2 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path960" />
+      <path
+         d="M4 0 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path962" />
+    </pattern>
+    <symbol
+       id="*Model_Space" />
+    <symbol
+       id="*Paper_Space" />
+    <symbol
+       id="*Paper_Space0" />
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="background">
+    <rect
+       style="opacity:1;fill:#15725a;fill-opacity:1;stroke-width:1.05734;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect6190"
+       width="1028.6447"
+       height="602.19873"
+       x="-2.1485081"
+       y="-0.011316506" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="border">
+    <path
+       id="rect3546"
+       style="fill:#0de6ae;fill-opacity:1;stroke-width:0.5"
+       d="M 415.48065,389.27283 H 607.729 v 14.7902 H 415.48065 Z m 0,-192.26247 H 607.7293 v 14.78906 H 415.48065 Z m 0.008,0.008 a 103.52082,103.52082 0 0 0 0,207.04163 v -14.8053 a 88.730265,88.730265 0 0 1 0,-177.45687 z m 192.23635,0 v 14.77946 a 88.730265,88.730265 0 0 1 0,177.45687 V 404.06 a 103.52082,103.52082 0 0 0 0,-207.04164 z M 415.48086,404.06285 H 607.7292 M 415.48086,197 H 607.7292 M 415.48086,389.27264 H 607.7292 M 415.48086,211.79021 H 607.7292" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="border_to remove" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="letters"
+     style="display:inline">
+    <path
+       style="fill:#0de6ae;fill-opacity:1;stroke:none;stroke-width:7.04295;stroke-linecap:round"
+       d="M 482.49468,269.30827 531.5462,374.48305"
+       id="path988" />
+    <path
+       style="fill:#0de6ae;fill-opacity:1;stroke:none;stroke-width:7.04295;stroke-linecap:round"
+       d="m 498.9115,374.48305 h 32.6347"
+       id="path990" />
+    <path
+       style="fill:#0de6ae;fill-opacity:1;stroke:none;stroke-width:7.04295;stroke-linecap:round"
+       d="m 480.6884,335.35553 18.2231,39.12752"
+       id="path992" />
+    <path
+       style="fill:#0de6ae;fill-opacity:1;stroke:none;stroke-width:7.04295;stroke-linecap:round"
+       d="M 524.2982,226.58102 H 491.6639"
+       id="path982" />
+    <path
+       style="fill:#0de6ae;fill-opacity:1;stroke:none;stroke-width:7.04295;stroke-linecap:round"
+       d="M 542.5215,265.63028 524.2982,226.58102"
+       id="path984" />
+    <path
+       style="fill:#0de6ae;fill-opacity:1;stroke:none;stroke-width:7.04295;stroke-linecap:round"
+       d="M 540.7153,331.7558 491.6639,226.58102"
+       id="path986" />
+    <path
+       id="path4589"
+       style="fill:#0de6ae;fill-opacity:1;stroke:none;stroke-width:13.2291px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 482.48693,269.28805 49.05927,105.195 H 498.9115 L 480.67826,335.3822 Z m -71.1326,-42.58138 a 73.941775,73.941775 0 1 0 69.32393,108.67553 l 1.8087,-66.09415 a 73.941775,73.941775 0 0 0 -71.13263,-42.58138 z m -1.2144,29.79146 a 44.365062,44.365062 0 0 1 49.71272,44.02832 44.365062,44.365062 0 1 1 -88.72843,0 44.365062,44.365062 0 0 1 39.01571,-44.02832 z" />
+    <path
+       id="path4591"
+       style="fill:#0de6ae;fill-opacity:1;stroke:none;stroke-width:13.2291px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 542.5215,265.63028 -18.2233,-39.04926 h -32.6343 l 49.0624,105.20967 z m 64.5573,-39.02696 a 73.941775,73.941775 0 0 0 -64.5697,39.06738 l -1.7828,66.11999 a 73.941775,73.941775 0 1 0 66.3525,-105.18737 z m -3.4365,29.73978 a 44.365062,44.365062 0 0 1 48.4467,44.18335 44.365062,44.365062 0 1 1 -88.7285,0 44.365062,44.365062 0 0 1 40.2818,-44.18335 z" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="letters_to remove"
+     style="display:inline" />
+</svg>

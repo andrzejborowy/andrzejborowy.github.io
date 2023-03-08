@@ -1,52 +1,33 @@
 :root {
-	--background-color: #E0EFEA;
-	--green-color: #445F3B;
-	--grey-color: #677C77;
-	--brown-color: #564734;
-	}
-	
+	--background-color: #e4d6cf;
+	--header-color: #15725a;
+	--footer-color: #15725a;
+}	
+
+* {
+padding: 0;
+margin: 0;
+}
+
+
 	
 
 
 html, body {
-	display: flex;
-	background: var(--background-color);
-	height: 100vh;
+	background-color: var(--background-color)
+}
+
+.header{
 	width: 100vw;
-	justify-content: center;
-	padding: 0;
-	margin: 40px;
-	justify-content: center;
-}
-	
-.mainContainer {
-	height: 300vh;
-	width: 1600px;
-	background: var(--green-color);
-}
-
-.logoContainer {
-	height: 300px;
-	display: flex;
-	justify-content: center;
-	background: var(--grey-color);
-	}
-
-.logoAB {
-	padding: 30px;
-	}
-
-.menuBar {
-	display: flex;
-	justify-content: center;
 	height: 100px;
-	font-size: 50px;
-	}
-
-
-.button {
-	text-align: center;	
-	border: none;
-	padding: 15px 30px;
-	background-color: var(--brown-color);
+	background-color: var(--header-color)
 }
+
+.navbar {
+	width: 85%;
+	justify-content: center;
+}
+
+.header_logo:{
+	object-fit: contain;
+	}
