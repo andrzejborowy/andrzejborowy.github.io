@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="8.1265697mm"
+   height="4.2821159mm"
+   viewBox="0 0 8.1265697 4.2821159"
+   version="1.1"
+   id="svg876"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview878"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:document-units="mm"
+     showgrid="false"
+     showborder="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="16"
+     inkscape:cx="5.762674"
+     inkscape:cy="11.712523"
+     inkscape:window-width="1920"
+     inkscape:window-height="1110"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2" />
+  <defs
+     id="defs873">
+    <marker
+       id="DistanceX"
+       orient="auto"
+       refX="0"
+       refY="0"
+       style="overflow:visible">
+      <path
+         d="M 3,-3 -3,3 M 0,-5 V 5"
+         style="stroke:#000000;stroke-width:0.5"
+         id="path955" />
+    </marker>
+    <pattern
+       id="Hatch"
+       patternUnits="userSpaceOnUse"
+       width="8"
+       height="8"
+       x="0"
+       y="0">
+      <path
+         d="M8 4 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path958" />
+      <path
+         d="M6 2 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path960" />
+      <path
+         d="M4 0 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path962" />
+    </pattern>
+    <symbol
+       id="*Model_Space" />
+    <symbol
+       id="*Paper_Space" />
+    <symbol
+       id="*Paper_Space0" />
+  </defs>
+  <g
+     inkscape:label="Warstwa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g1065"
+       transform="scale(0.59153419)"
+       style="fill:#ff0000">
+      <g
+         inkscape:label="0"
+         id="g1006"
+         transform="matrix(0.26458333,0,0,0.26458333,3.6190619,-293.38058)"
+         style="fill:#ff0000" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="border">
+    <path
+       id="rect3546"
+       style="fill:#ffffff;stroke-width:0.01"
+       d="M 2.1407988,3.9158821 H 5.9857664 V 4.2116862 H 2.1407988 Z m 0,-3.84524931 H 5.9857712 V 0.36641395 H 2.1407988 Z m 1.559e-4,1.6371e-4 a 2.0704163,2.0704163 0 0 0 0,4.1408326 v -0.296106 a 1.7746053,1.7746053 0 0 1 0,-3.54913741 z m 3.8447266,0 v 0.29558919 a 1.7746053,1.7746053 0 0 1 0,3.54913741 v 0.296106 a 2.0704163,2.0704163 0 0 0 0,-4.1408326 z M 2.1407988,4.2116862 H 5.9857665 M 2.1407988,0.07042932 H 5.9857665 M 2.1407988,3.9158821 H 5.9857665 M 2.1407988,0.36623339 h 3.8449677" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="border_to remove" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="letters"
+     style="display:inline">
+    <path
+       style="fill:none;stroke:none;stroke-width:0.9;stroke-linecap:round"
+       d="m 8.56354,1118.53 6.26816,13.44"
+       id="path988"
+       transform="matrix(0.15651009,0,0,0.15651009,2.1407989,-173.54464)" />
+    <path
+       style="fill:none;stroke:none;stroke-width:0.9;stroke-linecap:round"
+       d="m 10.6614,1131.97 h 4.1703"
+       id="path990"
+       transform="matrix(0.15651009,0,0,0.15651009,2.1407989,-173.54464)" />
+    <path
+       style="fill:none;stroke:none;stroke-width:0.9;stroke-linecap:round"
+       d="m 8.33272,1126.97 2.32868,5"
+       id="path992"
+       transform="matrix(0.15651009,0,0,0.15651009,2.1407989,-173.54464)" />
+    <path
+       style="fill:none;stroke:none;stroke-width:0.9;stroke-linecap:round"
+       d="M 13.9055,1113.07 H 9.73525"
+       id="path982"
+       transform="matrix(0.15651009,0,0,0.15651009,2.1407989,-173.54464)" />
+    <path
+       style="fill:none;stroke:none;stroke-width:0.9;stroke-linecap:round"
+       d="m 16.2342,1118.06 -2.3287,-4.99"
+       id="path984"
+       transform="matrix(0.15651009,0,0,0.15651009,2.1407989,-173.54464)" />
+    <path
+       style="fill:none;stroke:none;stroke-width:0.9;stroke-linecap:round"
+       d="M 16.0034,1126.51 9.73525,1113.07"
+       id="path986"
+       transform="matrix(0.15651009,0,0,0.15651009,2.1407989,-173.54464)" />
+    <path
+       id="path4589"
+       style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="m 3.4809244,1.5161865 0.9811851,2.1039 H 3.8094155 L 3.4447509,2.8380695 Z M 2.0582723,0.66455892 A 1.4788355,1.4788355 0 1 0 3.4447509,2.8380695 l 0.036174,-1.321883 A 1.4788355,1.4788355 0 0 0 2.0582723,0.66455892 Z M 2.0339843,1.2603882 a 0.88730123,0.88730123 0 0 1 0.9942545,0.8805664 0.88730123,0.88730123 0 1 1 -1.7745686,0 0.88730123,0.88730123 0 0 1 0.7803141,-0.8805664 z" />
+    <path
+       id="path4591"
+       style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="M 4.681615,1.4430312 4.3171498,0.66204586 H 3.6644638 L 4.6457113,2.7662394 Z M 5.972762,0.66249184 A 1.4788355,1.4788355 0 0 0 4.6813678,1.4438395 L 4.6457113,2.7662394 A 1.4788355,1.4788355 0 1 0 5.972762,0.66249184 Z m -0.06873,0.59479576 a 0.88730123,0.88730123 0 0 1 0.968933,0.883667 0.88730123,0.88730123 0 1 1 -1.7745686,0 0.88730123,0.88730123 0 0 1 0.8056356,-0.883667 z" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="letters_to remove"
+     style="display:inline" />
+</svg>
