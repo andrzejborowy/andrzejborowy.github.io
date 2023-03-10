@@ -1,72 +1,106 @@
+/* color variables */
 :root {
-	--background-color: #e4d6cf;
+	--background-color: #677C77;
 	--header-color: #15725a;
 	--footer-color: #15725a;
 }	
 
+
+/* reset values */
 * {
 padding: 0;
 margin: 0;
 }
 
+
+/* body shape */
 html, body {
 	background-color: var(--background-color);
-	height: 10000px;
+	height: 100vh;
+	width: 100vw;
 	}
-	
+
+
+
+/* navigation bar shape */	
 .navbar{
-	position: fixed;
+	position: absolute;
 	background-color: var(--header-color);
 	width: 100vw;
 	height: 100px;
 }
 
+/* navigarion bar logo container */
 #navbar_logo{
-	margin: 0;
 	position: absolute;
 	height: 80%;
 	top: 50%;
-	--ms-transform: translate(Y-50%);
+
 	transform: translateY(-50%);
-	left: 20px;
+	left: 40px;
 }
 
+/* navigation bar logo image */
 #navbar_image{
 	max-height: 100%;
 	max-width: 100%;
 	}
+	
+#navbar_buttons{
+	position: absolute;
+	width: 40%;
+	right: 0;
+	top: 50%;
+	--ms-transform: translate(Y-50%);
+	transform: translateY(-50%);
+
+}
 
 ul{
-list-style-type: none;
+	list-style-type: none;
 }
 
 li{
 	display: inline;
+	padding: 20px;
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 20px;
+
+	
 }
 
 
 
+#button{
+	padding: 10px 10px;
+	background-image: linear-gradient(180deg, var(--footer-color), #0c4032);
+	text-decoration: none;
+	color: white;
 
-
-
-
-
+	border-radius: 2px;
+}
 
 .content{
 
 }
 
 .footer{
-	background-color: var(--header-color);
+	background-image: linear-gradient(180deg, var(--footer-color), #0c4032);
+	
 	width: 100%;
 	height: 50px;
 	position: fixed;
 	bottom: 0;
+
 }
 
-#footer_image{
+#footer_image{ 
+	position: relative;
 	display: block;
-	max-height: 100%;
-	margin-left: auto;
-	margin-right: auto;
+	max-height: 70%;
+	margin: auto;
+	width: auto;
+	top: 50%;
+
+	transform: translateY(-50%);
 }
