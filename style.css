@@ -17,14 +17,14 @@ margin: 0;
 html, body {
 	background-color: var(--background-color);
 	height: 100vh;
-	width: 100vw;
+	width: auto;
 	}
 
 
 
 /* navigation bar shape */	
 .navbar{
-	position: absolute;
+	position: fixed;
 	background-color: var(--header-color);
 	width: 100vw;
 	height: 100px;
@@ -32,10 +32,9 @@ html, body {
 
 /* navigarion bar logo container */
 #navbar_logo{
-	position: absolute;
+	position: relative;
 	height: 80%;
 	top: 50%;
-
 	transform: translateY(-50%);
 	left: 40px;
 }
@@ -53,37 +52,56 @@ html, body {
 	top: 50%;
 	--ms-transform: translate(Y-50%);
 	transform: translateY(-50%);
-
 }
 
-ul{
-	list-style-type: none;
-}
-
-li{
-	display: inline;
-	padding: 20px;
+a{
+	color: white;
+	text-decoration: none;
 	font-family: 'Ubuntu', sans-serif;
 	font-size: 20px;
-
+	padding: 20px;
 	
 }
 
-
-
-#button{
-	padding: 10px 10px;
-	background-image: linear-gradient(180deg, var(--footer-color), #0c4032);
-	text-decoration: none;
-	color: white;
-
-	border-radius: 2px;
+.scroll-container {
+	display: block;
+	margin: 0 auto;
+	text-align: center;
 }
 
-.content{
-
+.scroll-page {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 100%;
+	font-size: 5em;
 }
 
+#o_mnie{
+	width:100vw;
+	height: 100vh;
+	background-color: red;
+}
+
+#portfolio{
+	width:100vw;
+	height: 100vh;
+	background-color: yellow;
+}
+
+#doswiadczenie{
+	width:100vw;
+	height: 100vh;
+	background-color: blue;
+}
+
+#kontakt{
+	width:100vw;
+	height: 100vh;
+	background-color: brown;
+}
+
+/*
 .footer{
 	background-image: linear-gradient(180deg, var(--footer-color), #0c4032);
 	
@@ -91,16 +109,16 @@ li{
 	height: 50px;
 	position: fixed;
 	bottom: 0;
-
 }
 
 #footer_image{ 
-	position: relative;
+	position: absolute;
 	display: block;
 	max-height: 70%;
 	margin: auto;
 	width: auto;
 	top: 50%;
-
+	--ms-transform: translate(Y-50%);
 	transform: translateY(-50%);
 }
+*/
