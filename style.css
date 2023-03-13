@@ -1,6 +1,6 @@
 /* color variables */
 :root {
-	--background-color: #677C77;
+	--background-color: #15725a;
 	--header-color: #15725a;
 	--footer-color: #15725a;
 }	
@@ -8,117 +8,30 @@
 
 /* reset values */
 * {
-padding: 0;
-margin: 0;
+	padding: 0;
+	margin: 0;
 }
 
 
 /* body shape */
+
 html, body {
-	background-color: var(--background-color);
+	background-color: green	;
 	height: 100vh;
 	width: auto;
 	}
 
-
-
-/* navigation bar shape */	
-.navbar{
-	position: fixed;
-	background-color: var(--header-color);
+#splash-screen{
 	width: 100vw;
-	height: 100px;
-}
-
-/* navigarion bar logo container */
-#navbar_logo{
+	height: 100vh;
+	border: 1px;
 	position: relative;
-	height: 80%;
-	top: 50%;
-	transform: translateY(-50%);
-	left: 40px;
+	animation-name: splash-screen;
+	animation-duration: 4s;
 }
 
-/* navigation bar logo image */
-#navbar_image{
-	max-height: 100%;
-	max-width: 100%;
-	}
-	
-#navbar_buttons{
-	position: absolute;
-	width: 40%;
-	right: 0;
-	top: 50%;
-	--ms-transform: translate(Y-50%);
-	transform: translateY(-50%);
-}
+@keyframes splash-screen {
+  0%   {left:0px; top:0px;}
+  50% {left:0px; top:0px;}
+  100%  {left:0px; top:-10000px;}
 
-a{
-	color: white;
-	text-decoration: none;
-	font-family: 'Ubuntu', sans-serif;
-	font-size: 20px;
-	padding: 20px;
-	
-}
-
-.scroll-container {
-	display: block;
-	margin: 0 auto;
-	text-align: center;
-}
-
-.scroll-page {
-	display: flex;
-	align-items: center;
-	justify-content: center;
-	height: 100%;
-	font-size: 5em;
-}
-
-#o_mnie{
-	width:100vw;
-	height: 100vh;
-	background-color: red;
-}
-
-#portfolio{
-	width:100vw;
-	height: 100vh;
-	background-color: yellow;
-}
-
-#doswiadczenie{
-	width:100vw;
-	height: 100vh;
-	background-color: blue;
-}
-
-#kontakt{
-	width:100vw;
-	height: 100vh;
-	background-color: brown;
-}
-
-/*
-.footer{
-	background-image: linear-gradient(180deg, var(--footer-color), #0c4032);
-	
-	width: 100%;
-	height: 50px;
-	position: fixed;
-	bottom: 0;
-}
-
-#footer_image{ 
-	position: absolute;
-	display: block;
-	max-height: 70%;
-	margin: auto;
-	width: auto;
-	top: 50%;
-	--ms-transform: translate(Y-50%);
-	transform: translateY(-50%);
-}
-*/
